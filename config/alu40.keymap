@@ -32,7 +32,7 @@
 
         RAISE {
             bindings = <
- &kp GRAVE     &kp LS(N1)        &kp LS(N2)        &kp LS(N3)    &kp LS(N4)      &kp LS(N5)    &kp LS(N6)      &kp LS(N7)       &kp LS(N8)        &kp LS(N9)         &kp LS(N0)       &kp PIPE
+ &kp TILDE     &kp LS(N1)        &kp LS(N2)        &kp LS(N3)    &kp LS(N4)      &kp LS(N5)    &kp LS(N6)      &kp LS(N7)       &kp LS(N8)        &kp LS(N9)         &kp LS(N0)       &kp PIPE
  &kp GRAVE   &kp NUMBER_1      &kp NUMBER_2      &kp NUMBER_3  &kp NUMBER_4    &kp NUMBER_5  &kp NUMBER_6    &kp NUMBER_7     &kp NUMBER_8      &kp NUMBER_9       &kp NUMBER_0  &kp BACKSLASH
  &kp COMMA  &kp LESS_THAN  &kp GREATER_THAN         &kp EQUAL     &kp MINUS  &kp UNDERSCORE      &kp PLUS  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp LEFT_BRACKET  &kp RIGHT_BRACKET     &kp PERIOD
 &kp ESCAPE      &kp LCTRL      &kp LEFT_ALT  &kp LEFT_COMMAND        &trans          &trans        &trans           &mo 3       &kp C_PREV          &kp HOME            &kp END     &kp C_NEXT
